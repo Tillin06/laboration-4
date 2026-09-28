@@ -6,4 +6,4 @@ console.log (`Första maträtten: ${mat[0]}`); //Skriver ut första maträtten i
 console.log (`Sista maträtten: ${mat[4]}`); //Skriver ut sista maträtten i arrayen
 mat.push (" Pizza"); //Lägger till en maträtt sist i arrayen
 mat.shift(); //Tar bort första maträtten i arrayen
-console.log (`Arrayen efter förändringarna: ${mat}`) //Skriver ut hela arrayen igen med nya innehållet
+console.log (`Arrayen efter förändringarna: ${mat}`); //Skriver ut hela arrayen igen med nya innehållet
